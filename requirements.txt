@@ -1,0 +1,8 @@
+fastapi>=0.109.0
+uvicorn>=0.27.0
+transformers>=4.37.0
+torch>=2.2.0
+sentence-transformers>=2.3.1
+pydantic>=2.5.0
+httpx>=0.26.0
+pytest>=7.4.0
